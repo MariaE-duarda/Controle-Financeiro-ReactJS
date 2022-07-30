@@ -11,3 +11,9 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes. You may also see any lint errors in the console.
+
+<br> 
+
+### Resultado Final: 
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/Site%20de%20controle%20financeiro.png?raw=true">
+<a href = "https://www.figma.com/file/2818m3HRatrxo83Xmh9VbS/Controle-de-Finan%C3%A7as---ReactJS?node-id=0%3A1"><img width="150" src="https://img.shields.io/badge/-INTERFACE-395B64?style=square&logo=figma&logoColor=F0F0F0&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
